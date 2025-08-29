@@ -51,3 +51,6 @@ htmlcov/
 
 # Streamlit
 .streamlit/secrets.toml
+
+*.ini
+versions
